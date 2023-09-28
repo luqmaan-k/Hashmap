@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1683482813 source:c:\dev\hashmap\main.cpp
+	<iostream>
+	<PhoneBook.h>
+	<stdexcept>
+	<limits>
+
+1683516789 source:c:\dev\hashmap\src\hashtable.cpp
+	"hashtable.h"
+
+1683530004 c:\dev\hashmap\include\hashtable.h
+	<iostream>
+
+1683465878 source:c:\dev\hashmap\src\phonebook.cpp
+	"PhoneBook.h"
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1683465275 c:\dev\hashmap\include\phonebook.h
+	<hashtable.h>
+	<vector>
+
